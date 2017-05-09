@@ -1,0 +1,40 @@
+.layout{
+  max-width: 500px;
+}
+.lay_mid{
+  margin: auto;
+}
+
+main{
+  background: rgb(255, 255, 255);
+}
+.error_information_card{
+  margin: 10px auto;
+  background: rgb(255, 84, 84);
+  padding: 10px 30px;
+  min-height: 100px;
+}
+.error_information_card > .mdl-card__title ,.error_information_card > .mdl-card__subtitle-text{
+  color: rgb(255, 255, 255);
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 500px;
+}
+#userinfo{
+  list-style-type: none;
+}
+
+.title
+{
+  font-family:"Goudy Old Style";
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+}
+
+
+
+.title-layout
+{
+  padding-left: 20px;
+}
